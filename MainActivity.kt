@@ -1,4 +1,4 @@
-package com.example.flashcontrol
+package com.app.flashcontrol
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
