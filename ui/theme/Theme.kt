@@ -1,4 +1,4 @@
-package com.example.flashcontrol.ui.theme
+package com.app.flashcontrol.ui.theme
 
 import android.app.Activity
 import android.os.Build
