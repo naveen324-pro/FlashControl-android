@@ -1,4 +1,4 @@
-package com.example.flashcontrol.ui
+package com.app.flashcontrol.ui
 
 import android.os.Build
 import androidx.compose.foundation.background
