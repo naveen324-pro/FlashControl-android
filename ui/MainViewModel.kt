@@ -1,4 +1,4 @@
-package com.example.flashcontrol.ui
+package com.app.flashcontrol.ui
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
