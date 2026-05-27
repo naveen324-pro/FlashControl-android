@@ -1,4 +1,4 @@
-package com.example.flashcontrol.controller
+package com.app.flashcontrol.controller
 
 import android.content.Context
 import android.hardware.camera2.CameraCharacteristics
